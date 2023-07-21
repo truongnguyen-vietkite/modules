@@ -1,0 +1,7 @@
+module:
+  - modules/ktest/module/**
+  - tests/modules/ktest/module/**
+
+subworkflows/subworkflow:
+  - subworkflows/ktest/subworkflow/**
+  - tests/subworkflows/ktest/subworkflow/**
